@@ -4,7 +4,7 @@ This repository holds my programming projects done during the period of stanCode
 
 
 ## Project Source Codes:
-* [StepUp.py](https://github.com/beautifulme123345/-/blob/main/SC001_workshop/SC001_workshop%20(3)/SC001_lecture01/StepUp.py))
+* [StepUp.py](https://github.com/beautifulme123345/-/blob/main/SC001_workshop/SC001_workshop%20(3)/SC001_lecture01/StepUp.py)
   
 * [PotholeFilling](https://github.com/beautifulme123345/-/blob/main/SC001_workshop/SC001_workshop%20(3)/SC001_lecture01/PotholeFilling.py)
   
