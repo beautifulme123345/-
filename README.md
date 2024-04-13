@@ -17,5 +17,5 @@ Watch my *[DEMO VIDEOS!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0IS
   * animation & game designing
 * [Name Popularity Searching System](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/name_popularity_searching_system/babygraphics.py)
   * data structure
-* [steeplechase.work](https://github.com/stanCode-Turing-demo/projects/blob/master/stanCode_Projects/boggle_game_solver/boggle.py)
+* [steeplechase.work](https://github.com/beautifulme123345/-/blob/main/SC001_workshop/SC001_workshop%20(3)/SC001_lecture02/Steeplechase.py)
   * recursive functions
